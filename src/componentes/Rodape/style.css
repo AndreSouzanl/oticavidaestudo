@@ -1,0 +1,17 @@
+
+.footer-rodape{
+    background-color: #030303;
+    text-align: center;
+    color: #adadad;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+/*Aqui os medias queries*/
+
+@media(max-width:768px){
+    .footer-rodape{
+        padding: 60px 20px;
+    }
+}
+
